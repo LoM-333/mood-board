@@ -50,6 +50,9 @@ export default function Index() {
         <Text>Playlist: <ul>{playlist.map(p=> <li>{p}</li>)}</ul></Text>
         
       </View>
-    );
+    ) ;
   }
+
+
+
   
